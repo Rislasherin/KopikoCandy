@@ -1,0 +1,14 @@
+
+
+
+.kopiko :hover{
+    color: red;
+    cursor: pointer;
+}
+
+.navbar-toggler-icon{
+    vertical-align: center;
+}
+#main-div{
+    overflow-x: hidden;
+}
